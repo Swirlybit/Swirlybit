@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...visual/next.js coding
 - 💞️ I’m looking to collaborate on ...hackathon dev challenge
 - 📫 How to reach me ...you can reach me in my telegram account
-- ⚡ Fun fact: .. Im a singer/Comedian
+- ⚡ Fun fact: .. Im a Sales Manager in Realestate/Event coordinator/speaker
 
 <!---
 Swirlybit/Swirlybit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
